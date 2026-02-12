@@ -36,7 +36,7 @@
     "js-cookie": "3.0.1",
     "json-rpc-2.0": "^1.7.0",
     "little-state-machine": "4.2.0",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "mime-lite": "^1.0.3",
     "next": "12.1.6",
     "next-pwa": "5.5.4",
